@@ -19,7 +19,7 @@ const Download = () => {
           className={styles.btnPrimary}
           onClick={() =>
             window.open(
-              "https://github.com/adrianhajdin/nft-marketplace-showcase"
+              "https://github.com/CV1X/NFT-MarketPlace"
             )
           }
         >
